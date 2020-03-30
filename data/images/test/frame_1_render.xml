@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<annotation>
+   <folder/>
+   <filename>frame_1_render.jpg</filename>
+   <path>frame_1_render.jpg</path>
+   <source>
+      <database>Unknown</database>
+   </source>
+   <size>
+      <width>1280</width>
+      <height>720</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>CLASSIFIER_NAME</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>741</xmin>
+         <ymin>142</ymin>
+         <xmax>814</xmax>
+         <ymax>525</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>CLASSIFIER_NAME</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>42</xmin>
+         <ymin>134</ymin>
+         <xmax>145</xmax>
+         <ymax>620</ymax>
+      </bndbox>
+   </object>
+</annotation>
